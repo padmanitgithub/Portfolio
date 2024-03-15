@@ -72,3 +72,21 @@ body{
     height:250px;
     margin:10px 10px 10px 10px;
 }
+a:hover{
+    color:rgb(27, 27, 26);
+}
+.java:hover{
+    transform: scale(1.1);
+}
+.html:hover{
+    transform: scale(1.1);
+}
+.css:hover{
+    transform: scale(1.1);
+}
+.c:hover{
+    transform: scale(1.1);
+}
+.sql:hover{
+    transform: scale(1.1);
+}
