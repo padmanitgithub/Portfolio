@@ -1,0 +1,74 @@
+
+.nav-bar{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    font-size: large;
+    color: rgb(158, 223, 28);
+}
+li{
+    padding-right: 30px;
+}
+ul{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+    color:rgba(207, 26, 56, 0.856);
+}
+body{
+    background: url("Skills-background.jpg");
+    background-repeat:no-repeat;
+    background-size: cover;
+    height:150px;
+    padding:10px;   
+}
+.skill-image{
+    float:right;
+   margin: 50px 200px 20px 5px;
+   padding: 10px 10px 10px 10px;
+   width: 200px;
+  
+}
+#javaimage{
+    display: flex;
+}
+.skill-section{
+    text-align: center;
+}
+.java{
+    border:2px solid black;
+    border-radius: 10px;
+    width:250px;
+    height:250px;
+    margin:10px 10px 10px 10px;
+
+}
+.html{
+    border:2px solid black;
+    border-radius: 10px;
+    width:250px;
+    height:250px;
+    margin:10px 10px 10px 10px;
+}
+.css{
+    border:2px solid black;
+    border-radius: 10px;
+    width:250px;
+    height:250px;
+    margin:10px 10px 10px 10px;
+}
+.c{
+    border:2px solid black;
+    border-radius: 10px;
+    width:250px;
+    height:250px;
+    margin:10px 10px 10px 10px;
+}
+.sql{
+    border:2px solid black;
+    border-radius: 10px;
+    width:250px;
+    height:250px;
+    margin:10px 10px 10px 10px;
+}
