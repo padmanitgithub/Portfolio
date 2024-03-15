@@ -39,3 +39,12 @@ body{
 #para{
     font-size:large;
 }
+a:hover{
+    color:rgb(0, 68, 255);
+}
+p:hover{
+    transform: scale(1.1);
+}
+h2:hover{
+    transform: scale(1.1);
+}
