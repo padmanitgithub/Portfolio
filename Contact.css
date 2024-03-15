@@ -1,0 +1,57 @@
+.nav-bar{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    font-size: large;
+   margin: 10px;
+}
+li{
+    padding-right: 30px;
+}
+ul{
+    list-style-type: none;
+    
+}
+a{
+    text-decoration: none;
+    color:rgb(231, 223, 223);
+}
+body{
+    background-image: url('contact-backimg.jpg');
+    background-repeat:no-repeat;
+    background-size: cover;
+    height:150px;
+    padding:10px;    
+}
+#photo{
+    float: right;
+    padding:10px;
+    margin: 10px;
+ }
+.contact-container{
+    margin: 30px 300px 300px 300px;
+    padding: 10px 10px 10px 10px;
+    display: block;
+}
+.image-container {
+    display: flex;
+    margin: 20px; 
+    width:100px;
+    
+  }
+  .image-container img {
+    display:flex;
+    width: 100px; 
+    height: 90px;
+  }
+    .image-container p{
+        font-size: 20px;
+        margin: 20px 20px 20px 20px;
+        color: white;
+        text-align: right;
+    }
+  .image-container a{
+    font-size: 20px;
+        margin: 20px 20px 20px 20px;
+        text-align: right;
+  }
