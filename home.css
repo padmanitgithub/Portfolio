@@ -1,0 +1,50 @@
+.nav-bar{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    font-size: large;
+    color: chartreuse;
+}
+li{
+    padding-right: 30px;
+}
+ul{
+    list-style-type: none;
+    
+}
+a{
+    text-decoration: none;
+    color:rgb(215, 213, 226);
+}
+body{
+    background-image: url('back-image.jpg');
+    background-repeat:no-repeat;
+    background-size: cover;
+    height:150px;
+    padding:10px;    
+}
+#photo{
+   float: right;
+   padding:10px;
+   margin: 10px;
+}
+#logo{
+    float:left;
+    text-align:top;
+    
+}
+.home{
+    border: 0px solid black;
+    border-radius: 10%;
+    width: 200%;
+    height: fit-content;
+    text-align:right;
+    text-decoration: none;
+    color:rgb(172, 166, 166);
+    font-size:xx-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    color: rgb(161, 176, 179);
+    text-align: center;
+}
