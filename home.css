@@ -48,3 +48,6 @@ h1{
     color: rgb(161, 176, 179);
     text-align: center;
 }
+a:hover{
+    color:yellow;
+}
