@@ -1,0 +1,41 @@
+.nav-bar{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    font-size: large;
+   margin: 30px;
+}
+li{
+    padding-right: 30px;
+}
+ul{
+    list-style-type: none;
+    
+}
+a{
+    text-decoration: none;
+    color:rgb(18, 19, 18);
+}
+body{
+    background-image: url('project-background.jpg');
+    background-repeat:no-repeat;
+    background-size: cover;
+    height:150px;
+    padding:10px;    
+}
+.image{
+    margin: 80px;
+    padding: 10px;
+}
+.intro{
+    text-align: right;
+}
+.project{
+    display: grid;
+  grid-template-columns: auto auto; 
+  align-items: center; 
+  gap: 40px;
+}
+#para{
+    font-size:large;
+}
